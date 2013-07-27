@@ -1,0 +1,6 @@
+name: 9TailsFoxMode
+main: me.kamehameha1.foxmode.FoxMode
+version: 1.0
+commands:
+  foxmode:
+  kyuubi:
